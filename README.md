@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> 
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <a href="YOUR_LINKEDIN_URL" class="social-badge linkedin" target="_blank">
-<a href="YOUR_INSTAGRAM_URL" class="social-badge instagram" target="_blank"> https://www.instagram.com/iaanrayy?igsh=MTM4MGI5dW42MTFhbw==
-<a href="YOUR_FACEBOOK_URL" class="social-badge facebook" target="_blank"> https://www.facebook.com/share/1C1LghYE9b/ 
+<a href="https://www.instagram.com/iaanrayy?igsh=MTM4MGI5dW42MTFhbw==" class="social-badge instagram" target="_blank"> 
+<a href="https://www.facebook.com/share/1C1LghYE9b/" class="social-badge facebook" target="_blank">  
 </div>
 
 ###
