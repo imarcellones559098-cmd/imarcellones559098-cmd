@@ -1,7 +1,7 @@
 <h1 align="left">Ian Ray </h1>
 
 ###
-![image](Ianpic.png)
+![image](pic.png)
 ###
 
 <div align="left">
