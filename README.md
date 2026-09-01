@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">I'm Ian Ray and I am a 2nd Year BSIT Student at, University Of Mindanao.<br><br>-🔭 I’m working on Java GUI applications integrated with MySQL databases, surviving my major subjects and group projects.<br><br>-📚 I’m currently learning Python for data analysis and advanced JavaScript.<br><br>-⚡ In my free time I play competitive games, watch tech tutorials, and attend local tech meetups.</h5>
+<h5 align="left">I'm Ian Ray and I am a 3rd Year BSIT Student at, University Of Mindanao.<br><br>-🔭 I’m working on Java GUI applications integrated with MySQL databases, surviving my major subjects and group projects.<br><br>-📚 I’m currently learning Python for data analysis and advanced JavaScript.<br><br>-⚡ In my free time I play competitive games, watch tech tutorials, and attend local tech meetups.</h5>
 
 ###
 
